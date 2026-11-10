@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="328" height="70" viewBox="0 0 328 70" role="img" aria-labelledby="title desc">
+  <title id="title">Ultoria</title>
+  <desc id="desc">Altın renkli, yıldız ve U armalı Ultoria logosu.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0.15" y2="1">
+      <stop stop-color="#f3dfab"/>
+      <stop offset=".48" stop-color="#dcc183"/>
+      <stop offset="1" stop-color="#ad8747"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#e4c886"/>
+      <stop offset="1" stop-color="#a78449" stop-opacity=".45"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-2 0)">
+    <path d="m10 8-7 3v22c0 14 12 26 27 34 15-8 27-20 27-34V11l-7-3" fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+    <path d="M11 16h13v2l-3 1v16c0 8 3 12 9 14 6-2 9-6 9-14V19l-3-1v-2h13v2l-3 2v15c0 11-7 18-16 22-9-4-16-11-16-22V20l-3-2Z" fill="url(#gold)"/>
+    <path d="m30 1 2.4 8.6L41 12l-8.6 2.4L30 23l-2.4-8.6L19 12l8.6-2.4Z" fill="url(#gold)"/>
+    <path d="m30 25 1.1 9L30 42l-1.1-8Z" fill="#d8b974" opacity=".75"/>
+  </g>
+  <g transform="translate(76 16)" fill="url(#gold)" fill-rule="evenodd">
+    <path d="M0 0h13v1.5L9 2.5V23c0 8 3 11 8 11 6 0 9-4 9-11V2.5l-4-1V0h10v1.5l-4 1V23c0 9-4 14-12 14C7 37 3 32 3 24V2.5l-3-1Z"/>
+    <path transform="translate(37)" d="M0 0h14v1.5l-4 1V34h11l4-10h2l-2 13H0v-1.5l4-1v-32l-4-1Z"/>
+    <path transform="translate(68)" d="M0 0h32l1 10h-2l-3-8h-9v32.5l5 1V37H8v-1.5l5-1V2H4l-3 8h-2Z"/>
+    <path transform="translate(105)" d="M17-1C6-1 0 7 0 18.5S6 38 17 38s17-8 17-19.5S28-1 17-1Zm0 2c8 0 10.5 7 10.5 17.5S25 36 17 36 6.5 29 6.5 18.5 9 1 17 1Z"/>
+    <path transform="translate(146)" d="M0 0h17c9 0 13 4 13 10 0 5-3 8-9 9l10 14c1 2 3 3 5 3v1H26L15 20h-5v14.5l4 1V37H0v-1.5l4-1v-32l-4-1Zm10 2v16h5c6 0 8.5-3 8.5-8S21 2 15 2Z"/>
+    <path transform="translate(190)" d="M0 0h15v1.5l-4.5 1v32l4.5 1V37H0v-1.5l4.5-1v-32l-4.5-1Z"/>
+    <path transform="translate(215)" d="M15-1h2l14 35.5 4 1V37H20v-1.5l4-1L20 24H8L4 34.5l4 1V37H-3v-1.5l4-1ZM9 22h10L14 8Z"/>
+  </g>
+</svg>
