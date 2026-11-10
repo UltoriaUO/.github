@@ -6,13 +6,13 @@
 
 Ultoria, Ultima Online dünyasını tarayıcıdan oynayabildiğin bir oyun sunucusudur. Karakterini geliştir; keşfet, savaş, büyü yap, üret ve ticaretle kendi yolunu seç.
 
-**[Ultoria'ya katıl](https://ultoria.com)** · **[Oyuncu rehberi](https://ultoria.gitbook.io/ultoria)**
+**[Ultoria'ya katıl](https://ultoria.com)** · **[Oyuncu rehberi](https://ultimaonline.gitbook.io/ultoria)**
 
 ## Oyuncu rehberi
 
 Türkçe rehberimizde her biri ayrı sayfada 58 beceri, 8 büyü kitabı, eşya özellikleri, Türkçe komutlar ve başlangıç adımları yer alır. Beceri adları **İngilizce (Türkçe)** biçimindedir. Büyü adları İngilizce kalır; Türkçe anlamları, açıklamaları ve özgün ikonlarıyla anlatılır.
 
-[GitBook rehberini aç](https://ultoria.gitbook.io/ultoria) · [Rehberin kaynakları](https://github.com/UltoriaUO/gitbook)
+[GitBook rehberini aç](https://ultimaonline.gitbook.io/ultoria) · [Rehberin kaynakları](https://github.com/UltoriaUO/gitbook)
 
 ## About Ultoria
 
