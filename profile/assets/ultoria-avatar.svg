@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Ultoria</title>
+  <desc id="desc">Ultoria logosundaki altın U arması ve yıldız, koyu zemin üzerinde.</desc>
+<defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0.15" y2="1">
+      <stop stop-color="#f3dfab"/>
+      <stop offset=".48" stop-color="#dcc183"/>
+      <stop offset="1" stop-color="#ad8747"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#e4c886"/>
+      <stop offset="1" stop-color="#a78449" stop-opacity=".45"/>
+    </linearGradient>
+  </defs>
+<rect width="96" height="96" fill="#111715"/>
+<g transform="translate(15.5 8.5) scale(1.16)"><g transform="translate(-2 0)">
+    <path d="m10 8-7 3v22c0 14 12 26 27 34 15-8 27-20 27-34V11l-7-3" fill="none" stroke="url(#edge)" stroke-width="1.2"/>
+    <path d="M11 16h13v2l-3 1v16c0 8 3 12 9 14 6-2 9-6 9-14V19l-3-1v-2h13v2l-3 2v15c0 11-7 18-16 22-9-4-16-11-16-22V20l-3-2Z" fill="url(#gold)"/>
+    <path d="m30 1 2.4 8.6L41 12l-8.6 2.4L30 23l-2.4-8.6L19 12l8.6-2.4Z" fill="url(#gold)"/>
+    <path d="m30 25 1.1 9L30 42l-1.1-8Z" fill="#d8b974" opacity=".75"/>
+  </g></g>
+</svg>
